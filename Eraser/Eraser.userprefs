@@ -1,12 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EraserControllerClone.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Stamina.cs">
     <Files>
-      <File FileName="Assets\Stamina.cs" Line="21" Column="23" />
-      <File FileName="Assets\rotatecube.cs" Line="39" Column="10" />
+      <File FileName="Assets\Stamina.cs" Line="48" Column="3" />
+      <File FileName="Assets\EraserController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Stamina2.cs" Line="1" Column="1" />
       <File FileName="Assets\EraserControllerClone.cs" Line="1" Column="1" />
-      <File FileName="Assets\Eraser2Controller.cs" Line="1" Column="1" />
-      <File FileName="Assets\rotate.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
